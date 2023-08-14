@@ -1,8 +1,0 @@
-step 1:
-	Class.forname("com.mysql.cj.jdbc.Driver");
-	"try catch sql exception we have to handle"
-step 2:
-	syntax:
-		protocol:sub-protocol//host_name:port_number/database ? user=username & password=password
-     example->  jdbc:mysql://localhost:3306/adde1?user=root&password=root
-
